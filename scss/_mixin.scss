@@ -1,0 +1,24 @@
+/*Mixin*/
+
+@mixin titulos {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 35px
+}
+
+.titulopresentacion{
+    @include titulos;
+}
+.tituloubicacion{
+    @include titulos;
+}
+.titulospreguntas{
+    @include titulos;
+}
+.titulosproductos{
+    @include titulos;
+}
+.tituloscontactos{
+    @include titulos;
+}
