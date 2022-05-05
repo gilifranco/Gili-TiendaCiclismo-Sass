@@ -1,0 +1,68 @@
+/*Medias Queries*/
+
+/*Medida para celulares y/o otros dispositivos*/
+/*Small devices (landscape phones, 576px and up)*/
+@media (max-width: 576px) {
+    .galeriaprod {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+  }
+  
+@media (max-width: 769px) {
+    .galeriaprod {
+      display: flex;
+      flex-direction: column;
+      align-items: center; }
+  }
+  
+  /*Medida para celulares y/o otros dispositivos*/
+  /*Small devices (landscape phones, 576px and up)*/
+  @media (max-width: 576px) {
+    .mapa {
+      width: 70%;
+      display: flex;
+    }
+  }
+  
+  @media (max-width: 769px){
+      .mapa{
+          width: 80%;
+          display: flex;
+      }
+  }
+
+
+
+  /*Medida para celulares y/o otros dispositivos*/
+  /*Small devices (landscape phones, 576px and up)*/
+  @media (max-width: 576px) {
+
+    .imgpreguntas {
+      display: none;
+    }
+  }
+
+  @media (max-width: 769px){
+    .imgpreguntas{
+        display: none;  
+      }
+  }
+
+   /*Medida para celulares y/o otros dispositivos*/
+  /*Small devices (landscape phones, 576px and up)*/
+  @media (max-width: 576px) {
+      .logofooter{
+          width: 35%;
+          display: flex;
+      }
+  }
+
+  @media (max-width: 769px){
+    .logofooter{
+        width: 30%;
+        display: flex;
+    }
+  }
