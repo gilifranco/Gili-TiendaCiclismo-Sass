@@ -311,12 +311,12 @@ button span {
 /*Small devices (landscape phones, 576px and up)*/
 @media (max-width: 576px) {
   .mapa {
-    width: 70%;
+    width: 100%;
     display: flex; } }
 
 @media (max-width: 769px) {
   .mapa {
-    width: 80%;
+    width: 100%;
     display: flex; } }
 
 /*Medida para celulares y/o otros dispositivos*/
