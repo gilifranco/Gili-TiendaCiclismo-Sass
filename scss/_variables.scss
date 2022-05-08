@@ -50,7 +50,8 @@ footer {
 .navfindepagina {
     width: 100%;
     display: flex;
-   flex-wrap: wrap;
+    flex-direction: row;
+    flex-wrap: nowrap;
     list-style: none;
     justify-content: center;
     align-items: center;
