@@ -55,7 +55,7 @@ footer {
 .facebook {
   color: blue; }
 
-.twitter {
+.whatshapp {
   color: green; }
 
 .instagram {
@@ -386,12 +386,9 @@ a {
   margin-left: auto;
   margin-right: auto; }
 
-.logfooter {
-  width: 20%;
-  display: flex; }
-
-.logofooter {
-  width: 23%; }
+.redessociales {
+  display: flex;
+  flex-direction: row; }
 
 /*Preguntas Frecuentes*/
 .imgpreguntas {

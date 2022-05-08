@@ -1,6 +1,6 @@
 /* Maps*/
 
-$mapsredes: (facebook:blue, twitter: green, instagram:red);
+$mapsredes: (facebook:blue, whatshapp: green, instagram:red);
 
 @each $blue, $color in $mapsredes {
     .#{$blue} {
