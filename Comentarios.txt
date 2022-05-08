@@ -1,0 +1,5 @@
+ eEn el archivo index.html sumé el SEO con las siguientes características:
+Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: “Sitio oficial de MendoBike"
+Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "ropa, ciclismo, ciclismo, ciclismo, montaña,ruta, conjunto, body, remeras, mendoza"
+
+Ademas, le puse a cada pagina el nombre correspondiente a su titulo. (Mendobike(inicio),Productos, Contactanos, Ubicacion, Preguntas Frecuentes)

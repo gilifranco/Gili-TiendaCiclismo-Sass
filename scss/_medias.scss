@@ -64,11 +64,6 @@
 /*Medida para celulares y/o otros dispositivos*/
 /*Small devices (landscape phones, 576px and up)*/
 
-@media (max-width: 576px){
-.carousel{
-    display: none;
-}
-}
 @media (max-width: 769px){
     .carousel-inner img {
         width: 100%;

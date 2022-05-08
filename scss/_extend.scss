@@ -23,10 +23,18 @@
     font-size: 15px;
 }
 
+.estilocarrusel{
+    @extend .letraprincipal;
+    font-size: 25px;
+    background-color: rgba(22, 22, 22, 0.721);
+    border: none;
+    border-radius: 45px;
+}
+
  /*Secciones y Divisiones*/
  /*Contenido de la Pagina*/
 .contenido{
-    background-color: #393E46;
+    background-color: #000;
   }
 .galeriaprod {
       @extend .contenido;
@@ -46,8 +54,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 3px solid #505050;
-    margin-bottom: 25px;
     padding: 20px; }
 
 /*Contactos*/
@@ -70,7 +76,40 @@
         }
         
 
-  
+/*Cards Prdouctos*/
 
+.diseñoproductos{
+    background-color: #393E46;
+    border: none;
+    border-radius: 45px;
+    padding: 15px;
+}
 
+.producto1{
+    @extend .diseñoproductos;
+}
+.producto2{
+    @extend .diseñoproductos;
+}
+.producto3{
+    @extend .diseñoproductos;
+}
 
+.producto4{
+    @extend .diseñoproductos;
+}
+.producto5{
+    @extend .diseñoproductos;
+}
+.producto6{
+    @extend .diseñoproductos;
+}
+.producto7{
+    @extend .diseñoproductos;
+}
+.producto8{
+    @extend .diseñoproductos;
+}
+.producto9{
+    @extend .diseñoproductos;
+}
