@@ -177,7 +177,7 @@ footer {
 
 .limenu:hover {
   background-color: #393E46;
-  box-shadow: 0px 15px 20px #00ADB5;
+  box-shadow: 0px 15px 20px #ffffffc7;
   color: #eeee;
   transform: translateY(-7px); }
 
@@ -467,4 +467,5 @@ a {
   padding: 20px; }
 
 .productosimgs {
-  width: 250px; }
+  width: 250px;
+  border-radius: 25px; }
