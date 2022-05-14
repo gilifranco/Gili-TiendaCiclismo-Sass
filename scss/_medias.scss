@@ -59,7 +59,17 @@
 
 }
 
-@media (max-width: 769px){}
+@media (max-width: 769px){
+
+  .carrito::before {
+    content: "";
+    background: none;
+    width: 120%;
+    left: -10%;
+    transform: skew(30deg);
+    transition: transform 0.4s cubic-bezier(0.3, 1, 0.8, 1);
+}
+}
 
 /*Medida para celulares y/o otros dispositivos*/
 /*Small devices (landscape phones, 576px and up)*/
