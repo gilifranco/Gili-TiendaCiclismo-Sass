@@ -78,7 +78,7 @@ $coloralternativo: #eeee;
   
   .carrito::before {
     content: "";
-    background: #000;
+    background: rgba(5, 5, 5, 0.458);
     width: 120%;
     left: -10%;
     transform: skew(30deg);
